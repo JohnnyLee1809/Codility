@@ -1,1 +1,2 @@
-# Codility lesson problem solution by C++
+# Codility
+Solution by C++
